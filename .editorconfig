@@ -146,7 +146,7 @@ visual_basic_preferred_modifier_order = Partial,Default,Private,Protected,Public
 [*.cs]
 
 # SA1600: Elements should be documented
-dotnet_diagnostic.SA1600.severity = none
+dotnet_diagnostic.SA1600.severity = error
 
 # SA1633: File should have header
 dotnet_diagnostic.SA1633.severity = none
